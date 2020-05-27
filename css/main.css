@@ -201,7 +201,7 @@
 
 /* The actual content */
 .timeline-content {
-  padding: 20px 30px;
+  padding: 10px 20px 5px;
   background-color: white;
   position: relative;
   border-radius: 6px;
@@ -260,5 +260,9 @@
   padding-top: 20px;
   background-image: url("../img/back3.jpg");
   height: 100%;
+}
 
+.copyright{
+  justify-content: center;
+  text-align: center;
 }
