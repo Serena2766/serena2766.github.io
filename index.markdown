@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 ---
-layout: simple
+layout: single
 classes: wide
 title: Home
 author_profile: true
