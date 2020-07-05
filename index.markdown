@@ -3,10 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 
-layout: single
+layout: home
 classes: wide
 title: Home
 author_profile: true
 header:
- image: images/bkgd.png
+ overlay_image: images/bkgd_cut.png
+
 ---
