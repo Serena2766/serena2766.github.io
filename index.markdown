@@ -4,10 +4,10 @@
 
 
 layout: home
-classes: wide
-title: Home
+classes: wide  
 author_profile: true
 header:
- overlay_image: images/bkgd_cut.png
-
+ overlay_image: images/4.jpg
+ overlay_filter: rgba(191, 155, 63, 0.3) #rgba(191, 155, 63, 0.3)
+ caption: "Photo credit: [*Unsplash*](https://unsplash.com/photos/qXwY-dPwIkw)"
 ---

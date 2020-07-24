@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "很少笑吃全麦的面包"
+title                    : "Serena's Blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Xinrui Zhang"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Xinrui Zhang"
   avatar           :  "/images/profile.jpg"
-  bio              : "一个学理工科的骚人。"
+  bio              : "晨霜攀黛瓦，抖落霜 ，冷了茶。<br>The tea turns cold as the frost climbing down"
   location         : "Ottawa, CA"
   email            :
   links:
